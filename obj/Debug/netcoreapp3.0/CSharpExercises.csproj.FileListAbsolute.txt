@@ -1,0 +1,12 @@
+C:\dev\Licenciatura .NET\CSharpExercises\bin\Debug\netcoreapp3.0\CSharpExercises.exe
+C:\dev\Licenciatura .NET\CSharpExercises\bin\Debug\netcoreapp3.0\CSharpExercises.deps.json
+C:\dev\Licenciatura .NET\CSharpExercises\bin\Debug\netcoreapp3.0\CSharpExercises.runtimeconfig.json
+C:\dev\Licenciatura .NET\CSharpExercises\bin\Debug\netcoreapp3.0\CSharpExercises.runtimeconfig.dev.json
+C:\dev\Licenciatura .NET\CSharpExercises\bin\Debug\netcoreapp3.0\CSharpExercises.dll
+C:\dev\Licenciatura .NET\CSharpExercises\bin\Debug\netcoreapp3.0\CSharpExercises.pdb
+C:\dev\Licenciatura .NET\CSharpExercises\obj\Debug\netcoreapp3.0\CSharpExercises.csprojAssemblyReference.cache
+C:\dev\Licenciatura .NET\CSharpExercises\obj\Debug\netcoreapp3.0\CSharpExercises.csproj.CoreCompileInputs.cache
+C:\dev\Licenciatura .NET\CSharpExercises\obj\Debug\netcoreapp3.0\CSharpExercises.AssemblyInfoInputs.cache
+C:\dev\Licenciatura .NET\CSharpExercises\obj\Debug\netcoreapp3.0\CSharpExercises.AssemblyInfo.cs
+C:\dev\Licenciatura .NET\CSharpExercises\obj\Debug\netcoreapp3.0\CSharpExercises.dll
+C:\dev\Licenciatura .NET\CSharpExercises\obj\Debug\netcoreapp3.0\CSharpExercises.pdb
