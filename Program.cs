@@ -14,7 +14,7 @@ namespace CSharpExercises
 
             //2.
             VariableExercises variable = new VariableExercises();
-            variable.Concatenador();
+            variable.Concatenate();
             
             //3.
             DataTypeExercises dataType = new DataTypeExercises();
