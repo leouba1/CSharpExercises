@@ -6,7 +6,8 @@ namespace ClassroomExamples
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var num = 9;
+            Console.WriteLine("Binario: {0} - BinaryGap: {1} ",Convert.ToString(num,2),Iterations.BinaryGap(num));
         }
     }
 }
