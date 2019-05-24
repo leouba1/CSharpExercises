@@ -7,11 +7,9 @@ namespace ClassroomExamples
         public static int BinaryGap(int number)
         {
             bool start = true;
-            var counter = 0;
-            var maxCounter = 0;
+            int counter = 0, maxCounter = 0;
             string binary = Convert.ToString(number, 2);
 
-            //var start = binary.IndexOf('1');
             foreach (var digit in binary)
             {
                 if (digit=='1' && start)                
@@ -22,7 +20,7 @@ namespace ClassroomExamples
                 
                 else if (digit=='1')
                 {
-                    if(maxCounter<counter)                    
+                    if(maxCounter<counter)
                         maxCounter = counter;
                     
                     counter = 0;

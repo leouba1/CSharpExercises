@@ -6,8 +6,11 @@ namespace ClassroomExamples
     {
         static void Main(string[] args)
         {
-            var num = 9;
-            Console.WriteLine("Binario: {0} - BinaryGap: {1} ",Convert.ToString(num,2),Iterations.BinaryGap(num));
+            var nums = new int[] {5, 8 ,9 , 140};
+            foreach(var num in nums)
+            {
+                Console.WriteLine("Decimal: {0} - Binario: {1} - BinaryGap: {2} ", num, Convert.ToString(num,2), Iterations.BinaryGap(num));
+            }            
         }
     }
 }

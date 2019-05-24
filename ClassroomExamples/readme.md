@@ -6,16 +6,7 @@ Exercises given in class
 Escribir un programa que permita ingresar el nombre completo de una persona e Informe cuantos caracteres tiene este nombre.
 Luego solicite el ingreso de una cadena de caracteres e informe si el nombre incluye o no esta cadena de caracteres.
 Finalmente, que imprima el nombre al revés.
-```
-Enter letter: b 
-Enter letter: a
-Enter letter: t
-```
 
-Expected Output :
-```
-t a b
-```
 
 ### Iterations
 A binary gap within a positive integer N is any maximal sequence of consecutive zeros that is surrounded by ones at both ends in the binary representation of N.
